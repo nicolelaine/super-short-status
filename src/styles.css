@@ -11,6 +11,7 @@
   width: 300px;
   font-family: inherit;
   padding: 0.5rem;
+  background-color: rgb(204, 240, 204);
 }
 
 .App .too-long {
